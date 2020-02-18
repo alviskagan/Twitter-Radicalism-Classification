@@ -5,4 +5,5 @@ Klasifikasi data tweet dari Twitter menggunakan beberapa metode Machine Learning
 <li>KNN
 <li>Random Forest
  </ul>
+ <br>
 Untuk menyeimbangkan data tweet radikal dengan yang non-radikal, maka dilakukan proses oversampling menggunakan metode SMOTE.
