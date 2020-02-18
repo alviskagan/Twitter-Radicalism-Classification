@@ -1,6 +1,5 @@
 # Twitter-Radicalism-Classification
-Klasifikasi data tweet dari Twitter menggunakan beberapa metode Machine Learning untuk menentukan tweet mana yang termasuk kategori radikal. 
-Berikut beberapa metode Machine Learning yang digunakan: 
+Klasifikasi data tweet dari Twitter menggunakan beberapa metode Machine Learning untuk menentukan tweet mana yang termasuk kategori radikal. Berikut beberapa metode Machine Learning yang digunakan: 
 <ul>
 <li>SVM
 <li>KNN
