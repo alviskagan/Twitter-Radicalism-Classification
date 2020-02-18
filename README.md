@@ -6,5 +6,4 @@ Berikut beberapa metode Machine Learning yang digunakan:
 <li>KNN
 <li>Random Forest
  </ul>
- <br>
 Untuk menyeimbangkan data tweet radikal dengan yang non-radikal, maka dilakukan proses oversampling menggunakan metode SMOTE.
